@@ -33,7 +33,7 @@ chattr +i /www/server/panel/data/plugin.json
 chattr -i /www/server/panel/data/repair.json
 rm /www/server/panel/data/repair.json
 cd /www/server/panel/data
-wget https://ghproxy.com/https://raw.githubusercontent.com/Github-Aiko/aaPanel/main/resource/repair.json
+wget https://ghproxy.com/https://raw.githubusercontent.com/bctavares/123panellouco/main/resource/repair.json
 chattr +i /www/server/panel/data/repair.json
 red "cracked successfully."
 }
@@ -56,7 +56,7 @@ chattr +i -R /www/server/panel/logs/request
 function start_menu(){
     clear
     purple " Thank you for using the aaPanel tool."
-    purple " https://github.com/Github-Aiko/aaPanel"
+    purple " https://github.com/bctavares/123panellouco"
     yellow " ————————————————————————————————————————————————"
     green " 1. Install aaPanel on CentOS/Debian/Ubuntu"
     yellow " ————————————————————————————————————————————————"
