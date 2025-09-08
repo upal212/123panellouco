@@ -56,7 +56,7 @@ chattr +i -R /www/server/panel/logs/request
 function start_menu(){
     clear
     purple " Thank you for using the aaPanel tool."
-    purple " https://github.com/bctavares/123panellouco"
+    purple " https://github.com/upal212"
     yellow " ————————————————————————————————————————————————"
     green " 1. Install aaPanel on CentOS/Debian/Ubuntu"
     yellow " ————————————————————————————————————————————————"
